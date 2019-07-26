@@ -12,4 +12,4 @@ It's really just a demo of a few things:
 ## usage
 
 * Install [solarus for players](https://www.solarus-games.org/en/solarus/download)
-* Grab [the solarus file](https://github.com/notnullgames/lostforest/releases/download/0.0.0/lostforest.solarus) and add it via the Solarus Quest Launcher
+* Grab [the solarus file](https://github.com/notnullgames/lostforest/releases/download/v0.0.0/lostforest.solarus) and add it via the Solarus Quest Launcher
