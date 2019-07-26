@@ -1,4 +1,4 @@
--- Lua script of map first_map.
+-- Lua script of map forest2.
 -- This script is executed every time the hero enters this map.
 
 -- Feel free to modify the code below.
@@ -10,9 +10,7 @@
 local map = ...
 local game = map:get_game()
 
-wanderingCount = 0
-
--- Event called at initialization time, as soon as this map becomes is loaded.
+-- Event called at initialization time, as soon as this map is loaded.
 function map:on_started()
 
   -- You can initialize the movement and sprites of various

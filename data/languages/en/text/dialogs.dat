@@ -1,0 +1,46 @@
+dialog{
+  id = "endless",
+  text = [[
+This field is endless.
+
+Good luck.
+]],
+}
+
+dialog{
+  id = "never_leave",
+  text = [[
+You'll never get out of here.
+I've been here for several years, myself.
+
+Good Luck!
+]],
+}
+
+dialog{
+  id = "welcome",
+  text = [[
+Welcome to this new world!
+This field is endless.
+
+Good luck.
+]],
+}
+
+dialog{
+  id = "you_again",
+  text = [[
+Oh!
+
+You again.
+
+
+
+I still can't seem to find the way out.
+
+
+
+Good Luck!
+]],
+}
+

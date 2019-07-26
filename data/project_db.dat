@@ -1,6 +1,6 @@
 map{ id = "first_map", description = "First map" }
-map{ id = "inside_store", description = "Inside Store" }
-map{ id = "outside_store", description = "Outside Store" }
+map{ id = "forest1" }
+map{ id = "forest2" }
 
 tileset{ id = "cave", description = "Cave" }
 tileset{ id = "dungeon_blue", description = "Dungeon (blue)" }
@@ -251,8 +251,10 @@ sound{ id = "zora", description = "zora" }
 
 
 
+language{ id = "en", description = "en" }
 
 font{ id = "alttp", description = "alttp" }
 font{ id = "green_digits", description = "Green digits" }
 font{ id = "white_digits", description = "White digits" }
+
 
