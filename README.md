@@ -1,6 +1,6 @@
 # lostforest
 
-This is a simple nihlist adventure RPG, made with [Solarus](https://www.solarus-games.org/).
+This is a simple nihilist adventure RPG, made with [Solarus](https://www.solarus-games.org/).
 
 It's really just a demo of a few things:
 

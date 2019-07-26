@@ -2,7 +2,7 @@ quest{
   solarus_version = "1.6",
   write_dir = "lostforest",
   title = "The Lost Forest",
-  short_description = "A Nihlist Adventure RPG",
+  short_description = "A Nihilist Adventure RPG",
   long_description = [[
 Discover with Link the futility of being.]],
   author = "David Konsumer <konsumer@jetboystudio.com>",
