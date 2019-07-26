@@ -1,0 +1,16 @@
+quest{
+  solarus_version = "1.6",
+  write_dir = "lostforest",
+  title = "The Lost Forest",
+  short_description = "A Nihlist Adventure RPG",
+  long_description = [[
+Discover with Link the futility of being.]],
+  author = "David Konsumer <konsumer@jetboystudio.com>",
+  quest_version = "0.0.0",
+  release_date = "",
+  website = "https://github.com/notnullgames/lostforest",
+  normal_quest_size = "320x240",
+  min_quest_size = "320x240",
+  max_quest_size = "320x240",
+}
+
