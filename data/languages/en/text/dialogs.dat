@@ -1,14 +1,24 @@
 dialog{
-  id = "endless",
+  id = "sign.endless",
   text = [[
-This field is endless.
+This forest is endless.
 
 Good luck.
 ]],
 }
 
 dialog{
-  id = "never_leave",
+  id = "sign.welcome",
+  text = [[
+Welcome to the Lost Forest.
+
+
+Good luck.
+]],
+}
+
+dialog{
+  id = "villager.never_leave",
   text = [[
 You'll never get out of here.
 I've been here for several years, myself.
@@ -18,17 +28,7 @@ Good Luck!
 }
 
 dialog{
-  id = "welcome",
-  text = [[
-Welcome to this new world!
-This field is endless.
-
-Good luck.
-]],
-}
-
-dialog{
-  id = "you_again",
+  id = "villager.you_again",
   text = [[
 Oh!
 

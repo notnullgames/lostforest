@@ -144,6 +144,42 @@ tile{
   pattern = "grass.flower_double",
 }
 
+tile{
+  layer = 0,
+  x = 272,
+  y = 56,
+  width = 8,
+  height = 16,
+  pattern = "grass.tree.roots.4",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 56,
+  width = 8,
+  height = 16,
+  pattern = "grass.tree.roots.3",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 64,
+  width = 48,
+  height = 16,
+  pattern = "grass.tree.roots.1",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 80,
+  width = 48,
+  height = 8,
+  pattern = "grass.tree.roots.2",
+}
+
 teletransporter{
   layer = 0,
   x = -16,
@@ -189,12 +225,61 @@ teletransporter{
 }
 
 npc{
+  name = "sign",
   layer = 0,
-  x = 168,
-  y = 133,
+  x = 160,
+  y = 141,
+  enabled_at_start = false,
   direction = 3,
-  subtype = 0,
+  subtype = 1,
   sprite = "entities/sign",
-  behavior = "dialog#welcome",
+  behavior = "dialog#sign.endless",
+}
+
+npc{
+  name = "villager",
+  layer = 0,
+  x = 136,
+  y = 61,
+  enabled_at_start = false,
+  direction = 3,
+  subtype = 1,
+  sprite = "npc/lady_blue",
+}
+
+tile{
+  layer = 1,
+  x = 216,
+  y = 16,
+  width = 8,
+  height = 40,
+  pattern = "tree.green.3",
+}
+
+tile{
+  layer = 1,
+  x = 224,
+  y = 24,
+  width = 48,
+  height = 40,
+  pattern = "tree.green.1",
+}
+
+tile{
+  layer = 1,
+  x = 272,
+  y = 16,
+  width = 8,
+  height = 40,
+  pattern = "tree.green.4",
+}
+
+tile{
+  layer = 1,
+  x = 224,
+  y = 8,
+  width = 48,
+  height = 16,
+  pattern = "tree.green.2",
 }
 

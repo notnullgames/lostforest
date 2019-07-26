@@ -1,6 +1,6 @@
 map{ id = "first_map", description = "First map" }
-map{ id = "forest1" }
-map{ id = "forest2" }
+map{ id = "forest1", description = "Forest Loop 1 (villager)" }
+map{ id = "forest2", description = "Forest Loop 2" }
 
 tileset{ id = "cave", description = "Cave" }
 tileset{ id = "dungeon_blue", description = "Dungeon (blue)" }
