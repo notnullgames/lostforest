@@ -2,6 +2,8 @@
 
 This is a simple nihilist adventure RPG, made with [Solarus](https://www.solarus-games.org/).
 
+![screen](screen.gif)
+
 It's really just a demo of a few things:
 
 * The variable `wanderingCount` in first_map tracks the number of maps you have wandered.
