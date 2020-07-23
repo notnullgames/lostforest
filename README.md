@@ -15,3 +15,5 @@ It's really just a demo of a few things:
 
 * Install [solarus for players](https://www.solarus-games.org/en/solarus/download)
 * Grab [the solarus file](https://github.com/notnullgames/lostforest/releases/download/v0.0.0/lostforest.solarus) and add it via the Solarus Quest Launcher
+
+If you want to install it on retropie, checkout [this](https://www.solarus-games.org/en/news/2019-08-20-solarus-on-retropie).
