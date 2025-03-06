@@ -10,6 +10,7 @@ It's really just a demo of a few things:
 * In forest1 & forest2 (which teleport to each other) at start, if `wanderingCount` is over 10, a sign will show.
 * In forest1 at start, if `wanderingCount` is over 50, a villager will show.
 * the villager knows if you have talked to her (via the map-script in forest1)
+* It has the [assets](https://docs.solarus-games.org/resources/resource-packs/) all setup, for a quick start to new "A Link To The Past" style game.
 
 ## usage
 
